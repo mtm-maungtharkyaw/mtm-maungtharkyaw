@@ -6,5 +6,5 @@ And servers? Yeah… let’s not talk about that.
 
 But a **professional HTML developer** 😎
 
-<img src="./images/omg.jpg" style="max-width: 400px; width: 100%;" />
+<img src="./images/omg.jpg" style="width: 400px" />
 
