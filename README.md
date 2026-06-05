@@ -1,2 +1,2 @@
 # Hi ......
-<img src="./images/omg.jpg" style="width: 400px" />
+<img src="./images/omg.jpg" style="width: 200px" />
