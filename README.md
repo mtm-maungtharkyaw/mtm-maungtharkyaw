@@ -1,9 +1,2 @@
-# Hi, I’m Maung Thar Kyaw
-
-Just a developer 🤷  
-Not great at frontend, not great at backend.  
-And servers? Yeah… let’s not talk about that.
-
-But still a **cool developer** 😎
-
+# Hi ......
 <img src="./images/omg.jpg" style="width: 400px" />
